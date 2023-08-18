@@ -14,11 +14,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Mehulrk7432](https://github.com/Mehulrk7432/Portfolio_React-Js). Thanks!
-
 ## Built With
 
 My personal portfolio <a href="https://portfolio-react-js-lilac.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
